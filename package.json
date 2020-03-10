@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/mekditd/Reverse-Engineering-Authentication/issues"
   },
-  "homepage": "https://github.com/mekditd/Reverse-Engineering-Authentication#readme"
+  "homepage": "https://github.com/mekditd/Reverse-Engineering-Authentication#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "mocha": "^7.1.0",
+    "prettier": "^1.19.1"
+  }
 }
