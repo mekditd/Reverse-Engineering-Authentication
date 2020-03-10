@@ -1,0 +1,23 @@
+{
+  "name": "reverse-engineering-authentication",
+  "version": "1.0.0",
+  "description": "```\r AS A developer",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekditd/Reverse-Engineering-Authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekditd/Reverse-Engineering-Authentication/issues"
+  },
+  "homepage": "https://github.com/mekditd/Reverse-Engineering-Authentication#readme"
+}
